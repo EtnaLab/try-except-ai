@@ -5,9 +5,8 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setup(
     name="try-except-ai",
-    version="0.1.0",
-    author="Federico Ulfo",
-    author_email="federicoulfo@gmail.com",
+    version="0.1.1",
+    author="Federico Ulfo<federicoulfo@gmail.com>",
     description="A Python package to handle exceptions and suggest resolutions using OpenAI",
     long_description=long_description,
     long_description_content_type="text/markdown",

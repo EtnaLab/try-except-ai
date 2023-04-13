@@ -11,6 +11,10 @@ poetry add try-except-ai
 ```
 
 ## Usage
+Add `export OPENAI_API_KEY={your openai api key here}` to your .zshrc or .bash_profile file.
+
+Then test it with the following
+
 ```python
 from try_except_ai import TryExceptAI
 

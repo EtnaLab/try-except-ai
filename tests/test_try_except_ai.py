@@ -1,4 +1,4 @@
-from try_except_ai.try_except_ai import TryExceptAI
+from try_except_ai import TryExceptAI
 
 
 def test_function():
